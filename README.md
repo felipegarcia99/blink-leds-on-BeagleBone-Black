@@ -15,3 +15,7 @@ and transfer to your board (via NFS or SD card).
 ### Connection
 
 (print aqui)
+
+### Demo videos
+
+(os 3 vídeos aq)
